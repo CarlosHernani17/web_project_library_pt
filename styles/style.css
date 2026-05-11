@@ -64,6 +64,7 @@
   line-height: 30px;
   max-width: 515px;
   margin-bottom: 0;
+  margin-top: 0;
 }
 
 .header__image {
@@ -121,7 +122,7 @@
   justify-content: center;
   gap: 40px 68px;
   max-width: 788px;
-  list-style: none;
+  list-style-type: none;
   padding: 0;
   margin: 68px auto 0;
 }
